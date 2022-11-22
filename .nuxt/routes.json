@@ -1,0 +1,16 @@
+[
+  {
+    "name": "posts-slug",
+    "path": "/posts/:slug?",
+    "component": "C:\\\\Va-Test\\\\cms-va-demo\\\\pages\\\\posts\\\\_slug.vue",
+    "chunkName": "pages/posts/_slug",
+    "_name": "_05be9b99"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "C:\\\\Va-Test\\\\cms-va-demo\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "_name": "_a8bb6c00"
+  }
+]
